@@ -41,7 +41,7 @@ In modern retail, data is often siloed or "dirty" (missing values, inconsistent 
 ## 📂 Repository Structure
 | File | Description |
 | :--- | :--- |
-| `data_pipeline.ipynb` | Jupyter Notebook containing Python ETL logic. |
+| `orders_data_analysis.ipynb` | Jupyter Notebook containing Python ETL logic. |
 | `sql_code.sql` | T-SQL script containing the 5 major business insights. |
 | `requirements.txt` | List of Python dependencies. |
 
